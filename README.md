@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Unpretty Farm**
 
-- 🌱 I’m currently learning **JAVA-based Spring Framework Web Developer**
+- 🌱 I’m currently taking **JAVA-based Spring Framework Web Developer course at KOSTA**
 
 - 💬 Ask me about **Java, Spring**
 
