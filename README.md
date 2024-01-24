@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jisu Kim</h1>
+<h1 align="center">Hi 👋, I'm Jisu</h1>
 <h3 align="center">Passionate bilingual aspiring backend developer fluent in English and Korean, dedicated to mastering the intricacies of backend technologies to build innovative solutions</h3>
 
 
