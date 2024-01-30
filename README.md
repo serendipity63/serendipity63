@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jisu</h1>
 <h3 align="center">Passionate bilingual aspiring backend developer fluent in English and Korean, dedicated to mastering the intricacies of backend technologies to build innovative solutions</h3>
 
-
-- 👨‍💻 All of my projects are available at [https://spiral-ghoul-ac9.notion.site/b81da3a480ee412782f0fbfccb3037d5?pvs=4](https://spiral-ghoul-ac9.notion.site/b81da3a480ee412782f0fbfccb3037d5?pvs=4)
-
 - 💬 Ask me about **Java, Spring**
 
 - 📫 How to reach me **jisuunwi@gmail.com**
